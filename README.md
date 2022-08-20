@@ -1,4 +1,8 @@
 # Repositorio-40260
-##Alumno: Julio Federico Tripel
-***Clase 3***
-Desafío entregable "Cíclos"
+### Alumno: Julio Federico Tripel
+
+**Clase 3**
+
+*Desafío entregable "Cíclos"*
+
+_________________________________
