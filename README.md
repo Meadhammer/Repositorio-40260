@@ -3,8 +3,16 @@
 
 **Clase 3**
 
-*Desafío entregable "Cíclos"*
+*Desafío complementario "Cíclos"*
+_________________________________
+**Clase 4**
 
+*Desafío entregable "Funciones"*
+_________________________________
+**Clase 6**
+
+*Desafío complementario "Arrays"*
+_________________________________
 
 
 _________________________________
