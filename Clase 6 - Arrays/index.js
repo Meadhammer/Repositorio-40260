@@ -25,21 +25,24 @@ class Producto {
 }
 
 const stock = [];
+const ids = stock.map (item => {
+    return {
+        id: item.id,
+    }
+});
+let opcion = "";
+let select = "";
 
 const carga = () => {
     do {
         let nombre = prompt(`Ingrese el nombre del producto`).toLowerCase();
-        let precio = prompt(`Ingrese el precio del producto`);
+        let precio = parseFloat(prompt(`Ingrese el precio del producto`));
         let descripcion = prompt(`Ingrese una breve descripcion del producto`).toLowerCase();
         let imagen = prompt(`cargue una imagen del producto`);
-        let ids = stock.map (item => {
-            return {
-                id: item.id,
-            }
-        });
         let id = (Math.max(0,...ids)) + 1;
         const nuevoProducto = new Producto (id, nombre, precio, descripcion, imagen);
         stock.push(nuevoProducto);
+        ids.push(id);
         nuevoProducto.show();
         menu2 ();
         select = "end";
@@ -58,7 +61,7 @@ const consultaStock = (consulta) => {
 };
 
 const menu1 = () => {
-    let opcion = prompt(
+    opcion = prompt(
         `Ingrese una opción para continuar 
          1 - para ingresar 
          END - para salir`
@@ -83,7 +86,7 @@ const menu1 = () => {
 };
 
 const menu2 = () => {
-    let select = prompt(`
+    select = prompt(`
         Seleccione una opción para continuar 
         1 - Ingresar producto nuevo 
         2 - Consultas 
