@@ -23,7 +23,7 @@ class Producto {
         let article = document.createElement ("article");
         article.className = "col-12 col-lg-6 col-xxl-4";
         article.innerHTML = `
-            <h4>ID: ${this.id}</h2>
+            <h4>ID: ${this.id}</h4>
             <div class="card" style="width: 22rem;">
                 <img src="${this.imagen}" class="card-img-top" alt="pipa${this.id}">
                 <div class="card-body">
@@ -110,14 +110,16 @@ const carga = () => {
           console.log(fileList);
         });
         let imagen = fileList;
-        fileList = "";
+        console.log(imagen);
         let id = (Math.max(0,...ids)) + 1;
         const nuevoProducto = new Producto (id, nombre, precio, descripcion, imagen);
+        console.log(nuevoProducto);
         stock.push(nuevoProducto);
         ids.push(id);
         nuevoProducto.show();
-        })
-        nuevoProducto = {};
+      })
+      nuevoProducto = {};
+      fileList = "";
 };
 
 const consultaStock = () => {
@@ -178,7 +180,7 @@ menuCarga.addEventListener("click", (e) => {
         </div>
         <div class="row mb-3 g-3 align-items-center justify-content-center">
             <div class="col-12 col-sm-2 col-md-4 text-sm-end">
-              <label for="imagen" class="col-form-label">Descripción</label>
+              <label for="imagen" class="col-form-label">Imagen</label>
             </div>
             <div class="col-sm-8 col-md-4">
               <input type="file" id="file-selector" name="image" placeholder="Imagen" class="form-control" aria-describedby="imageHelpInline" accept=".jpg, .jpeg, .png" multiple>
