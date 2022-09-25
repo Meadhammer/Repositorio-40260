@@ -1,0 +1,132 @@
+Nombre: Pipa Mate
+
+precio: $12000
+
+Descripcion: Pipa prototipo en forma de mate, con tiraje en "U" apuntando hacia arriba emulando una bombilla. Cazoleta y boquilla en quebracho, con tiraje en aluminio.
+
+Imagenes:
+https://i.postimg.cc/sXyzs88k/img-pipe-pr-001-1.jpg
+https://i.postimg.cc/Y93H9RBh/img-pipe-pr-001-2.jpg
+https://i.postimg.cc/C5xVf8wJ/img-pipe-pr-001-3.jpg
+
+-------------------------------------------------------------------------------------------------
+Nombre: Stout Lecture
+
+Precio: $ 15000
+
+Descripcion: Pipa de lectura robusta, tipo churchwarden. Cazoleta y boquilla en quebracho, con pequeña cámara de enfriado y detalles en bronce.
+
+Imagenes:
+https://i.postimg.cc/pVcdJW3y/img-pipe-lg-002-1.jpg
+https://i.postimg.cc/GhZh6MLC/img-pipe-lg-002-2.jpg
+https://i.postimg.cc/ncshR8t2/img-pipe-lg-002-3.jpg
+
+-------------------------------------------------------------------------------------------------
+Nombre: O'Captain
+
+Precio: $ 18000
+
+Descripcion: Pipa tipo capitán, mediana. Cazoleta y boquilla en quebracho con detalles en bronce. Cámara de enfriado tipo Calabash.
+
+Imagenes:
+https://i.postimg.cc/W1NF5WX1/img-pipe-md-003-1.jpg
+https://i.postimg.cc/qv1tSs5X/img-pipe-md-003-2.jpg
+https://i.postimg.cc/JhtyLyww/img-pipe-md-003-3.jpg
+
+-------------------------------------------------------------------------------------------------
+Nombre: Big Captain
+
+Precio: $ 15000
+
+Descripcion: Pipa sobria de gran porte, estilo capitán. Cazoleta y boquilla en quebracho con detalles en bronce. Pequeña cámara encamisada.
+
+Imagenes:
+https://i.postimg.cc/BQV9ztCP/img-pipe-md-004-1.jpg
+https://i.postimg.cc/tCTGDFFH/img-pipe-md-004-2.jpg
+https://i.postimg.cc/SQVpWg2r/img-pipe-md-004-3.jpg
+
+-------------------------------------------------------------------------------------------------
+Nombre: Admiral
+
+Precio: $ 21000
+
+Descripcion: Pipa estilo capitán con gran elegancia. Salida iferior, cazoleta y boquilla en quebracho y detalles en bronce.
+
+Imagenes:
+https://i.postimg.cc/VNw7Zc2b/img-pipe-md-007-1.jpg
+https://i.postimg.cc/FRsTmVrr/img-pipe-md-007-2.jpg
+https://i.postimg.cc/8CbZq0VX/img-pipe-md-007-3.jpg
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
+Nombre:
+
+Precio: $
+
+Descripcion:
+
+Imagenes:
+
+-------------------------------------------------------------------------------------------------
