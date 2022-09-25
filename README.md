@@ -13,6 +13,21 @@ _________________________________
 
 *Desafío complementario "Arrays"*
 _________________________________
+**Clase 9**
 
+*Desafío entregable "Eventos"*
+_________________________________
+**Clase 11**
 
+*Desafío entregable "2da entrega proyecto final"*
+_________________________________
+**Clase 12**
+
+*Desafío complementario "Operadores"*
+*unificado con clase 13*
+_________________________________
+**Clase 13**
+
+*Desafío entregable "Librerias"*
+*Junto a clase 12*
 _________________________________
