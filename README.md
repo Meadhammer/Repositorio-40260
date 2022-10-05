@@ -31,3 +31,7 @@ _________________________________
 *Desafío entregable "Librerias"*
 *Junto a clase 12*
 _________________________________
+**Clase 15**
+
+*Desafío entregable "actualización proyecto final" "Fetch"*
+_________________________________
